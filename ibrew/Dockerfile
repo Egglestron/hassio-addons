@@ -14,7 +14,7 @@ RUN tar -zxf pybonjour-1.1.1.tar.gz
 
 RUN cd pybonjour-1.1.1 && python setup.py install
 
-RUN git clone https://github.com/Tristan79/iBrew.git
+RUN git clone https://github.com/jonbur/iBrew.git
 
 EXPOSE 2080
 
