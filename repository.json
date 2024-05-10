@@ -1,5 +1,4 @@
 {
-  "name": "Leinich Hassio Add-Ons",
-  "url": "https://github.com/leinich/hassio-addons",
-  "maintainer": "Michael Leinich <michael+github@leinich.net>"
+  "name": "Egglestron Home Assistant Add-Ons",
+  "url": "https://github.com/Egglestron/hassio-addons"
 }

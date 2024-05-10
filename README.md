@@ -8,11 +8,11 @@ Hass.io easily. This repository is one of those repositories.
 ## Installation
 
 Adding this add-ons repository to your Hass.io Home Assistant instance is
-pretty easy. Follow https://home-assistant.io/hassio/installing_third_party_addons/ on the
+pretty easy. Follow https://www.home-assistant.io/common-tasks/os#installing-third-party-add-ons on the
 website of Home Assistant, and use the following URL:
 
 ```txt
-https://github.com/leinich/hassio-addons/
+https://github.com/Egglestron/hassio-addons/
 ```
 
 ## Add-ons provided by this repository
