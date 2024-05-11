@@ -3,6 +3,6 @@ set -e
 
 echo "[Info] Starting iBrew docker!"
 
-echo "[INFO] Startting ibrew Web"
+echo "[INFO] Starting iBrew Web"
 python /home/app/iBrew/ibrewui
 echo "[Info] Finished "
